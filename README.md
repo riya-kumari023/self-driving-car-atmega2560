@@ -37,13 +37,13 @@ flowchart TD
     B --> D[Servo Motor → Camera/Robotic Arm]
     C --> E[Autonomous Navigation]
 
-**## Results**
+## Results
   Successfully avoided obstacles in test runs.
   Achieved stable autonomous navigation.
   Robotic arm responds to servo commands for object interaction.
   Prototype demonstrates fully autonomous operation without manual intervention.
 
-**## Future Improvements**
+## Future Improvements
   Full integration with Raspberry Pi 4 for advanced AI-based navigation.
   Object detection with computer vision for the robotic arm.
   Add path-planning algorithms for more complex routes.
