@@ -31,7 +31,6 @@ This project focuses on building a **self-driving car** capable of navigating au
 ---
 
 ## Workflow Diagram
-```mermaid
 flowchart TD
     A[Ultrasonic Sensor] --> B[ATmega2560 Controller]
     B --> C[Motor Driver → Car Movement]
